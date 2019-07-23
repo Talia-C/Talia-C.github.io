@@ -1,0 +1,28 @@
+h1{
+  font-size: 90px
+}
+h2{
+  font-size: 50px
+}
+body{
+  font-size: 50px;
+}
+body{
+  background-color: #EE0E00;
+}
+p{
+  font-size: 40px
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px
+}
+a:hover, a:active {
+  background-color: green;
+  color: white;
